@@ -76,7 +76,7 @@ Background:
 
 - Time is based on the client machine clock
 - No backend or synchronization included
-  For strict environments, ensure all machines use the same time source
+- For strict environments, ensure all machines use the same time source
 
 ## 📄 License
 
