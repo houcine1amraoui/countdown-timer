@@ -26,7 +26,7 @@ A lightweight and visually engaging countdown timer designed for programming con
 All configuration is done inside the script section:
 
     const startDate = new Date("April 22, 2026 14:00:00").getTime();
-    const duration = 2 _ 60 _ 60 \* 1000; // 2 hours
+    const duration = 2 * 60 * 60 * 1000; // 2 hours
 
 ### 🔧 Parameters
 
@@ -37,11 +37,11 @@ All configuration is done inside the script section:
 
 3-hour contest:
 
-    const duration = 3 _ 60 _ 60 \* 1000;
+    const duration = 3 * 60 * 60 * 1000;
 
 90-minute contest:
 
-    const duration = 90 _ 60 _ 1000;
+    const duration = 90 * 60 * 1000;
 
 ## 🖥️ Usage in Contest
 
@@ -65,7 +65,7 @@ Subtitle:
 Colors (CSS):
 
     .progress {
-    stroke: #00ffd5;
+        stroke: #00ffd5;
     }
 
 Background:
