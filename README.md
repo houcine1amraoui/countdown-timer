@@ -19,7 +19,7 @@ A lightweight and visually engaging countdown timer designed for programming con
 
    git clone <https://github.com/houcine1amraoui/countdown-timer>
 
-2. Open the index.html file in your browser:
+2. Open the index.html file in your browser
 
 ## ⚙️ Configuration
 
