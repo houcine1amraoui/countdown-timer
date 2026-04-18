@@ -1,5 +1,5 @@
-# circular-countdown-timer
+# ⏳ Hackathon Countdown Timer
 
-This countoun timer can be used during the PedaDays-26 programming contest to display the remaining time to students.
+A lightweight and visually engaging countdown timer designed for programming contests and hackathons.
 
-The time is a single HTML page that includes both CSS and JS
+It displays the remaining time (hours, minutes, seconds) with animated circular progress indicators and automatically handles all competition phases: waiting, running, and finished.
