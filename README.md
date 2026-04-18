@@ -2,8 +2,6 @@
 
 A lightweight and visually engaging countdown timer designed for programming contests and hackathons.
 
-It displays the remaining time (hours, minutes, seconds) with animated circular progress indicators and automatically handles all competition phases: waiting, running, and finished.
-
 ## 🚀 Features
 
 - Real-time countdown with 1-second updates
@@ -15,18 +13,15 @@ It displays the remaining time (hours, minutes, seconds) with animated circular 
 - Simple configuration (start time + duration)
 - No dependencies (pure HTML, CSS, JavaScript)
 
-### 📦 Setup
+## 📦 Setup
 
 1. Clone this repo
 
    git clone <https://github.com/houcine1amraoui/countdown-timer>
 
-2. Open the index.htmlfile in your browser:
-3. Then open:
+2. Open the index.html file in your browser:
 
-   <http://localhost:8000>
-
-### ⚙️ Configuration
+## ⚙️ Configuration
 
 All configuration is done inside the script section:
 
@@ -48,14 +43,14 @@ All configuration is done inside the script section:
 
     const duration = 90 _ 60 _ 1000;
 
-### 🖥️ Usage in Contest
+## 🖥️ Usage in Contest
 
 - Display on a projector or shared screen
 - Open in full-screen mode (F11)
 - Ensure system clock is correct
 - Optionally host on a local server for multiple displays
 
-### 🎨 Customization
+## 🎨 Customization
 
 You can easily customize:
 
@@ -77,12 +72,12 @@ Background:
 
     background: url("faculty.jpg") center/cover no-repeat;
 
-### ⚠️ Notes
+## ⚠️ Notes
 
 - Time is based on the client machine clock
 - No backend or synchronization included
   For strict environments, ensure all machines use the same time source
 
-### 📄 License
+## 📄 License
 
 Free to use for educational and contest purposes.
