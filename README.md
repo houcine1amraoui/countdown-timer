@@ -56,7 +56,7 @@ You can easily customize:
 
 Title:
 
-    <h1>Hackathon 2026</h1>
+    <h1>PedaDays'26 Programming Contest</h1>
 
 Subtitle:
 
